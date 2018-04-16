@@ -12,14 +12,6 @@ for (int i = 0; i < 4; i++ ){
     target[i].green = 50;
 
 }
-ifstream inputFile;
-char filename;
-cout <<"What is the name of your input file?"<<endl;
-cin>> filename;
-inputFile.open(filename);
-//Read through the file
-infi
-inputFile.close();
 
 
 
